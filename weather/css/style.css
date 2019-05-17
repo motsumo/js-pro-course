@@ -1,0 +1,63 @@
+.weatherBlock {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+}
+
+.weatherBlock>* {
+    margin-right: 15px;
+}
+
+.labelCity {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: rgb(114, 114, 114);
+}
+
+.country {
+    padding: 10px;
+    border-color: rgb(114, 114, 114);
+}
+
+.myAndClearButtons{
+    margin-top: 15px;
+}
+
+.find,
+.myWeather,
+.clear {
+    padding: 15px;
+}
+
+.text {
+    margin-top: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: rgb(114, 114, 114);
+}
+
+.infoTable {
+    margin-top: 15px;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+.infoTable,
+th,
+td {
+    border: 1px solid black;
+}
+
+th,
+td {
+    width:20%;
+    padding:10px 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: rgb(114, 114, 114);
+}
