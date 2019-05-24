@@ -1,0 +1,27 @@
+{
+  "name": "js-pro-course",
+  "version": "1.0.0",
+  "description": "Katsiaryna Kamiak\r Екатерина Комяк",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "babelify": "^10.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motsumo/js-pro-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motsumo/js-pro-course/issues"
+  },
+  "homepage": "https://github.com/motsumo/js-pro-course#readme"
+}
